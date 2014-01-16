@@ -1,0 +1,20 @@
+{
+  "name": "jszg-bot",
+  "version": "0.0.0",
+  "description": "Javascript Zagreb Meetup IRC Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "javascript",
+    "zagreb"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "irc": "~0.3.6"
+  }
+}
