@@ -1,5 +1,5 @@
 {
     "server" : "chat.freenode.net",
     "nickname" : "jszg-bot", 
-    "channels" : ["#jszg-test"]
+    "channels" : ["#jszg"]
 }
